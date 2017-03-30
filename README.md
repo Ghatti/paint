@@ -1,2 +1,3 @@
 # paint
-Paint studying project
+Paint studying project from eloquent javascript
+
