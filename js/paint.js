@@ -361,7 +361,7 @@ tools.Pick = function(event, cx){
     var rgb = "rgb(" + colors[0] + "," + colors[1] + "," +  colors[2]+ ")";  
 
     cx.fillStyle = rgb;
-    cx.strokeStlye = rgb;
+    cx.strokeStyle = rgb;
 
 }
 
